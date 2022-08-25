@@ -1,2 +1,2 @@
-Check output at https://github.com/Andrew-Keller/Andrew-Keller-Class-Photo-Book/index.php
+Check output at https://htmlpreview.github.io/Andrew-Keller/Andrew-Keller-Class-Photo-Book/index.php
 or this output 
