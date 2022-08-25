@@ -7,7 +7,7 @@
 		
 	<body>
 		<link rel="stylesheet" href="assets/css/detail.css" />
-		<title><?php echo "ASE 230 - Andrew Keller"?></title>
+		<title><?php echo "ASE 230 - Andrew Keller" ?></title>
 		<div class="container text-center mb-5">
 			<h1><?php echo "This is ASE 230 - Andrew Keller" ?></h1>
 		</div>
