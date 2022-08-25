@@ -35,8 +35,8 @@
 </div>
 <!-- Team Details-->
 <div class="single_advisor_details_info">
-<h6>Samantha Sarah</h6>
-<p class="designation">Founder &amp; CEO</p>
+<h6><?phpecho "Andrew Keller"?></h6>
+<p class="designation"><?php echo "CIT Student"?></p>
 </div>
 </div>
 </div>
