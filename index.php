@@ -29,7 +29,7 @@
 	<div class="col-12 col-sm-6 col-lg-3">
 		<div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
 			<!-- Team Thumb-->
-			<div class="advisor_thumb"><a href="detail.php"><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt=""></a>
+			<div class="advisor_thumb"><a href="ANDREW_KELLER.php"><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt=""></a>
 				<!-- Social Info-->
 				<div class="social-info"><a href="detail.php"><i class="fa fa-facebook"></i></a><a href="detail.php"><i class="fa fa-twitter"></i></a><a href="detail.php"><i class="fa fa-linkedin"></i></a>
 				</div>
@@ -45,9 +45,9 @@
 	<div class="col-12 col-sm-6 col-lg-3">
 		<div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
 		<!-- Team Thumb-->
-			<div class="advisor_thumb"><a href="detail.php"><img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt=""></a>
+			<div class="advisor_thumb"><a href="ANDREW_KELLER.php"><img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt=""></a>
 			<!-- Social Info-->
-				<div class="social-info"><a href="detail.php"><i class="fa fa-facebook"></i></a><a href="detail.php"><i class="fa fa-twitter"></i></a><a href="detail.php"><i class="fa fa-linkedin"></i></a>
+				<div class="social-info"><a href="ANDREW_KELLER.php"><i class="fa fa-facebook"></i></a><a href="ANDREW_KELLER.php"><i class="fa fa-twitter"></i></a><a href="ANDREW_KELLER.php"><i class="fa fa-linkedin"></i></a>
 				</div>
 			</div>
 			<!-- Team Details-->
@@ -61,9 +61,9 @@
 	<div class="col-12 col-sm-6 col-lg-3">
 		<div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
 			<!-- Team Thumb-->
-			<div class="advisor_thumb"><a href="detail.php"><img src="https://bootdey.com/img/Content/avatar/avatar6.png" alt=""></a>
+			<div class="advisor_thumb"><a href="ANDREW_KELLER.php"><img src="https://bootdey.com/img/Content/avatar/avatar6.png" alt=""></a>
 				<!-- Social Info-->
-				<div class="social-info"><a href="detail.php"><i class="fa fa-facebook"></i></a><a href="detail.php"><i class="fa fa-twitter"></i></a><a href="detail.php"><i class="fa fa-linkedin"></i></a>
+				<div class="social-info"><a href="ANDREW_KELLER.php"><i class="fa fa-facebook"></i></a><a href="ANDREW_KELLER.php"><i class="fa fa-twitter"></i></a><a href="ANDREW_KELLER.php"><i class="fa fa-linkedin"></i></a>
 				</div>
 			</div>
 			<!-- Team Details-->
@@ -77,9 +77,9 @@
 	<div class="col-12 col-sm-6 col-lg-3">
 		<div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
 			<!-- Team Thumb-->
-			<div class="advisor_thumb"><a href="detail.php"><img src="https://bootdey.com/img/Content/avatar/avatar2.png" alt=""></a>
+			<div class="advisor_thumb"><a href="ANDREW_KELLER.php"><img src="https://bootdey.com/img/Content/avatar/avatar2.png" alt=""></a>
 				<!-- Social Info-->
-				<div class="social-info"><a href="detail.php"><i class="fa fa-facebook"></i></a><a href="detail.php"><i class="fa fa-twitter"></i></a><a href="detail.html"><i class="fa fa-linkedin"></i></a>
+				<div class="social-info"><a href="ANDREW_KELLER.php"><i class="fa fa-facebook"></i></a><a href="ANDREW_KELLER.php"><i class="fa fa-twitter"></i></a><a href="ANDREW_KELLER.html"><i class="fa fa-linkedin"></i></a>
 				</div>
 			</div>
 			<!-- Team Details-->
