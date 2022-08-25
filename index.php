@@ -19,72 +19,76 @@
 				<!-- Section Heading-->
 					<div class="section_heading text-center wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
 						<h3>Our Creative <span> Team</span></h3>
-							<p>Appland is completely creative, lightweight, clean &amp; super responsive app landing page.</p>
-								<div class="line"></div>
-		</div>
-			</div>
+						<p>Appland is completely creative, lightweight, clean &amp; super responsive app landing page.</p>
+							<div class="line"></div>
 					</div>
+			</div>
+		</div>
 <div class="row">
+<!-- Single Advisor-->
+	<div class="col-12 col-sm-6 col-lg-3">
+		<div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+			<!-- Team Thumb-->
+			<div class="advisor_thumb"><a href="detail.php"><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt=""></a>
+				<!-- Social Info-->
+				<div class="social-info"><a href="detail.php"><i class="fa fa-facebook"></i></a><a href="detail.php"><i class="fa fa-twitter"></i></a><a href="detail.php"><i class="fa fa-linkedin"></i></a>
+				</div>
+			</div>
+			<!-- Team Details-->
+			<div class="single_advisor_details_info">
+				<h6><?php echo "Andrew Keller"?></h6>
+				<p class="designation"><?php echo "CIT Student"?></p>
+			</div>
+		</div>
+	</div>
+<!-- Single Advisor-->
+	<div class="col-12 col-sm-6 col-lg-3">
+		<div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+		<!-- Team Thumb-->
+			<div class="advisor_thumb"><a href="detail.php"><img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt=""></a>
+			<!-- Social Info-->
+				<div class="social-info"><a href="detail.php"><i class="fa fa-facebook"></i></a><a href="detail.php"><i class="fa fa-twitter"></i></a><a href="detail.php"><i class="fa fa-linkedin"></i></a>
+				</div>
+			</div>
+			<!-- Team Details-->
+			<div class="single_advisor_details_info">
+				<h6>Nazrul Islam</h6>
+				<p class="designation">UI Designer</p>
+			</div>
+		</div>
+	</div>
 	<!-- Single Advisor-->
-		<div class="col-12 col-sm-6 col-lg-3">
-			<div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-				<!-- Team Thumb-->
-					<div class="advisor_thumb"><a href="detail.html"><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt=""></a>
-<!-- Social Info-->
-<div class="social-info"><a href="detail.html"><i class="fa fa-facebook"></i></a><a href="detail.html"><i class="fa fa-twitter"></i></a><a href="detail.html"><i class="fa fa-linkedin"></i></a></div>
-</div>
-<!-- Team Details-->
-<div class="single_advisor_details_info">
-<h6><?phpecho "Andrew Keller"?></h6>
-<p class="designation"><?php echo "CIT Student"?></p>
-</div>
-</div>
-</div>
-<!-- Single Advisor-->
-<div class="col-12 col-sm-6 col-lg-3">
-<div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.3s" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-<!-- Team Thumb-->
-<div class="advisor_thumb"><a href="detail.html"><img src="https://bootdey.com/img/Content/avatar/avatar7.png" alt=""></a>
-<!-- Social Info-->
-<div class="social-info"><a href="detail.html"><i class="fa fa-facebook"></i></a><a href="detail.html"><i class="fa fa-twitter"></i></a><a href="detail.html"><i class="fa fa-linkedin"></i></a></div>
-</div>
-<!-- Team Details-->
-<div class="single_advisor_details_info">
-<h6>Nazrul Islam</h6>
-<p class="designation">UI Designer</p>
-</div>
-</div>
-</div>
-<!-- Single Advisor-->
-<div class="col-12 col-sm-6 col-lg-3">
-<div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-<!-- Team Thumb-->
-<div class="advisor_thumb"><a href="detail.html"><img src="https://bootdey.com/img/Content/avatar/avatar6.png" alt=""></a>
-<!-- Social Info-->
-<div class="social-info"><a href="detail.html"><i class="fa fa-facebook"></i></a><a href="detail.html"><i class="fa fa-twitter"></i></a><a href="detail.html"><i class="fa fa-linkedin"></i></a></div>
-</div>
-<!-- Team Details-->
-<div class="single_advisor_details_info">
-<h6>Riyadh Khan</h6>
-<p class="designation">Developer</p>
-</div>
-</div>
-</div>
-<!-- Single Advisor-->
-<div class="col-12 col-sm-6 col-lg-3">
-<div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-<!-- Team Thumb-->
-<div class="advisor_thumb"><a href="detail.html"><img src="https://bootdey.com/img/Content/avatar/avatar2.png" alt=""></a>
-<!-- Social Info-->
-<div class="social-info"><a href="detail.html"><i class="fa fa-facebook"></i></a><a href="detail.html"><i class="fa fa-twitter"></i></a><a href="detail.html"><i class="fa fa-linkedin"></i></a></div>
-</div>
-<!-- Team Details-->
-<div class="single_advisor_details_info">
-<h6>Niloy Islam</h6>
-<p class="designation">Marketing Manager</p>
-</div>
-</div>
-</div>
+	<div class="col-12 col-sm-6 col-lg-3">
+		<div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.4s" style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+			<!-- Team Thumb-->
+			<div class="advisor_thumb"><a href="detail.php"><img src="https://bootdey.com/img/Content/avatar/avatar6.png" alt=""></a>
+				<!-- Social Info-->
+				<div class="social-info"><a href="detail.php"><i class="fa fa-facebook"></i></a><a href="detail.php"><i class="fa fa-twitter"></i></a><a href="detail.php"><i class="fa fa-linkedin"></i></a>
+				</div>
+			</div>
+			<!-- Team Details-->
+			<div class="single_advisor_details_info">
+				<h6>Riyadh Khan</h6>
+				<p class="designation">Developer</p>
+			</div>
+		</div>
+	</div>
+	<!-- Single Advisor-->
+	<div class="col-12 col-sm-6 col-lg-3">
+		<div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
+			<!-- Team Thumb-->
+			<div class="advisor_thumb"><a href="detail.php"><img src="https://bootdey.com/img/Content/avatar/avatar2.png" alt=""></a>
+				<!-- Social Info-->
+				<div class="social-info"><a href="detail.php"><i class="fa fa-facebook"></i></a><a href="detail.php"><i class="fa fa-twitter"></i></a><a href="detail.html"><i class="fa fa-linkedin"></i></a>
+				</div>
+			</div>
+			<!-- Team Details-->
+			<div class="single_advisor_details_info">
+				<h6>Niloy Islam</h6>
+				<p class="designation">Marketing Manager</p>
+			</div>
+		</div>
+	</div>
 </div>
 </div>
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
