@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 	<link rel="stylesheet" href="assets/css/index.css" />
-	<title>ASE 230 - Class of Spring/Fall/Summer 20XX</title>
+	<title>ASE 230 - Class of Spring/Fall/Summer 202XX</title>
 </head>
 <body>
 	<div class="container text-center">
@@ -31,13 +31,13 @@
 			<!-- Team Thumb-->
 			<div class="advisor_thumb"><a href="ANDREW_KELLER.php"><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt=""></a>
 				<!-- Social Info-->
-				<div class="social-info"><a href="detail.php"><i class="fa fa-facebook"></i></a><a href="detail.php"><i class="fa fa-twitter"></i></a><a href="detail.php"><i class="fa fa-linkedin"></i></a>
+				<div class="social-info"><a href="ANDREW_KELLER.php"><i class="fa fa-facebook"></i></a><a href="ANDREW_KELLER.php"><i class="fa fa-twitter"></i></a><a href="detail.php"><i class="fa fa-linkedin"></i></a>
 				</div>
 			</div>
 			<!-- Team Details-->
 			<div class="single_advisor_details_info">
-				<h6><?php echo "Andrew Keller" ?></h6>
-				<p class="designation"><?php echo "CIT Student" ?></p>
+				<h6><?php echo "Andrew Keller"; ?></h6>
+				<p class="designation"><?php echo "CIT Student"; ?></p>
 			</div>
 		</div>
 	</div>
