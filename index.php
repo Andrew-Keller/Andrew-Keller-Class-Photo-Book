@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 	<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
 	<link rel="stylesheet" href="assets/css/index.css" />
-	<title>ASE 230 - Class of Spring/Fall/Summer 202XX</title>
+	<title>ASE 230 - Class of Spring/Fall/Summer 2022</title>
 </head>
 <body>
 	<div class="container text-center">
@@ -36,8 +36,8 @@
 		</div>
 		<!-- Team Details-->
 			<div class="single_advisor_details_info">
-			<?php echo "<h6>Andrew Keller</h6>" ; ?>
-			<p class="designation"> <?php echo "CIT Student" ; ?> </p>
+			<?php echo "<h6>Andrew Keller</h6>"
+			<p class="designation">  echo "CIT Student"; ?> </p>
 			</div>
 		</div>
 	</div>
