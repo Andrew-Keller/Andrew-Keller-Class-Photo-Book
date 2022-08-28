@@ -20,24 +20,24 @@
 					<div class="section_heading text-center wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
 						<h3>Our Creative <span> Team</span></h3>
 						<p>Appland is completely creative, lightweight, clean &amp; super responsive app landing page.</p>
-							<div class="line"></div>
+						<div class="line"></div>
 					</div>
 			</div>
 		</div>
 <div class="row">
-<!-- Single Advisor-->
+	<!-- Single Advisor-->
 	<div class="col-12 col-sm-6 col-lg-3">
 		<div class="single_advisor_profile wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-			<!-- Team Thumb-->
-			<div class="advisor_thumb"><a href="ANDREW_KELLER.php"><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt=""></a>
-				<!-- Social Info-->
-				<div class="social-info"><a href="ANDREW_KELLER.php"><i class="fa fa-facebook"></i></a><a href="ANDREW_KELLER.php"><i class="fa fa-twitter"></i></a><a href="detail.php"><i class="fa fa-linkedin"></i></a>
-				</div>
+		<!-- Team Thumb-->
+		<div class="advisor_thumb"><a href="ANDREW_KELLER.php"><img src="https://bootdey.com/img/Content/avatar/avatar1.png" alt=""></a>
+			<!-- Social Info-->
+			<div class="social-info"><a href="ANDREW_KELLER.php"><i class="fa fa-facebook"></i></a><a href="ANDREW_KELLER.php"><i class="fa fa-twitter"></i></a><a href="detail.php"><i class="fa fa-linkedin"></i></a>
 			</div>
-			<!-- Team Details-->
+		</div>
+		<!-- Team Details-->
 			<div class="single_advisor_details_info">
-				<?php echo "<h6> Andrew Keller </h6>"; ?>
-				<p class="designation"><?php echo "CIT Student"; ?></p>
+			<?php echo "<h6> Andrew Keller </h6>"; ?>
+			<p class="designation"> <?php echo "CIT Student"; ?> </p>
 			</div>
 		</div>
 	</div>
