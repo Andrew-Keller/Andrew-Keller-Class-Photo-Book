@@ -11,7 +11,7 @@
 </head>
 <body>
 	<div class="container text-center">
-		<h1>This is ASE 230 - class of Spring/Fall/Summer 20XX</h1>
+		<h1>This is ASE 230 - class of Spring/Fall/Summer 2022</h1>
 	</div>
 	<div class="container">
 		<div class="row justify-content-center">
