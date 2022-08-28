@@ -36,8 +36,8 @@
 		</div>
 		<!-- Team Details-->
 			<div class="single_advisor_details_info">
-			<?php echo "<h6>Andrew Keller</h6>
-			<p class="designation">  echo CIT Student"; ?> </p>
+			<?php echo "<h6>Andrew Keller</h6>"
+			<p class="designation">  echo "CIT Student"; ?> </p>
 			</div>
 		</div>
 	</div>
